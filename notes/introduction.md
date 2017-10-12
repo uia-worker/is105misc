@@ -18,6 +18,7 @@ func main() {
 ```
 
 ```assembly_x86
+movl    -4(%ebp), %eax
 MOV UP, ACC
 SUB LEFT
 JGZ WPORT
