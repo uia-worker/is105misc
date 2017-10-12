@@ -7,3 +7,7 @@ For the reader of popular computer science, I might explain what is behind the r
 For those of you who already has spent a lot of time with computers and have developed considerable skills, I hope to offer an insight into other disciplines, which at the first sight might be unrelated.
 
 I am lucky to be explaining a subject whose principles underlie Netflix, HBO, Facebook, Google and Microsoft. 
+
+```go
+var s []byte
+```
