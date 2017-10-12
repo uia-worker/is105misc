@@ -1,4 +1,4 @@
-I have seldom met a person who has not used a computer. But only few of them understand how it works. With this text I intend to help more people to understand how a computer works. Computer is like a thick history book. It materializes many thoughts and big efforts from many people.
+I have seldom met a person who has not used a computer. But only few of them have genuinely understood how it works. With this text I intend to help more people to understand how a computer works. Computer is like a thick history book. It materializes thoughts and efforts from many people.
 
 For one who loves computers, I would like to show that there is a world of art hidden behind the better and worse designed metallic boxes.
 
