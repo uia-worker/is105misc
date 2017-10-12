@@ -16,3 +16,11 @@ func main() {
     startChat()
 }
 ```
+
+```assembly_x86
+MOV UP, ACC
+SUB LEFT
+JGZ WPORT
+WPORT:
+  MOV LEFT, DOWN
+```
