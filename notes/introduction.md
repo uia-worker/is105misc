@@ -11,4 +11,8 @@ I am lucky to be explaining a subject whose principles underlie Netflix, HBO, Fa
 ```golang
 var s []byte
 s = make([]byte, 5, 5)
+
+func main() {
+    startChat()
+}
 ```
