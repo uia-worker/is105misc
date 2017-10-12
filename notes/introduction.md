@@ -17,7 +17,7 @@ func main() {
 }
 ```
 
-```a
+```assembly
 movl    -4(%ebp), %eax
 MOV UP, ACC
 SUB LEFT
