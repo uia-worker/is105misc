@@ -8,6 +8,6 @@ For those of you who already has spent a lot of time with computers and have dev
 
 I am lucky to be explaining a subject whose principles underlie Netflix, HBO, Facebook, Google and Microsoft. 
 
-```golang
+```
 var s []byte
 ```
