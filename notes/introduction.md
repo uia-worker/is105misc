@@ -17,8 +17,7 @@ func main() {
 }
 ```
 
-```lisp
-movl    -4(%ebp), %eax
+```assembly
 MOV UP, ACC
 SUB LEFT
 JGZ WPORT
