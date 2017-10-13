@@ -12,7 +12,11 @@ This text is intended for everyone who uses computer.
 Thanks to University in Agder...
 
 You are probably reading these words using a computer screen. And each of us is probably reading these words on different computers. How is it possible to show those words to you on that particular screen?
-Everything started with me having an idea of writing this text. I am a computer user and I am in possession of several devices I could call computer, but in this case I am using a MacBook Pro computer. What does i mean? I am privileged not only using a computer, but also having an access to a network of computers which are connected by some communication channel. Someone has made this program called "web browser" and using that I can access other computers on the network. On some of those computers, there is a detailed information about my computer.
+Everything started with me having an idea of writing this text. I am a computer user and I am in a possession of several devices I could call computer, but in this case I am using a MacBook Pro computer. To write or to produce this text, I need to use some INPUT device. It could a microphone able to anlyze my voice and convert my speech to text. It could some sort of keyboard, depending on the language I am writing in or if I have any disabilities (blind people, for example, use Braille sign system). It could be a screen I touch at specific locations (usually guided by a visual picture of a keyboard), and produce the text sign by sign in that way. Hypotetically, this text could also be produced by a computer itself, but the capabilities of "artificial intelligence" are still (in 2017) very limited. 
+
+--- DISTRACTION, RECONSIDER
+What does i mean? I am privileged not only using a computer, but also having an access to a network of computers which are connected by some communication channel. Someone has made this program called "web browser" and using that I can access other computers on the network. On some of those computers, there is a detailed information about my computer.
+---
 
 MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
 
