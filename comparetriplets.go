@@ -7,6 +7,7 @@ func main() {
     palice, pbob := 0,0
     alice = make([]int, 3)
     bob = make([]int, 3)
+    
     for i := range alice {
         fmt.Scanf("%d", &alice[i])
     }
