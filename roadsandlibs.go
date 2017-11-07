@@ -50,6 +50,7 @@ func main() {
     }
   }
 }
+
 func min(a, b int) int {
   if a < b {
     return a
@@ -57,3 +58,20 @@ func min(a, b int) int {
     return b
   }
 }
+
+/*
+Flow:
+1) go through all of the combinations of libraries and roads
+2) define constraints based on the description of situation
+Access to library, - a library in city or possibility to access
+one by a road (no constraints on the length of path?)
+Can not look at one city, need to look at the network
+1 2 3
+lib1 lib2 lib3 road12 road23 road13 = 2+2+2+1+1+1 = 9
+ x    x    x    -      -      -     = 2+2+2+0+0+0 = 6
+ x    -    -    x      -      x     = 2+0+0+1+0+1 = 4
+ x    x    -    -      x      -     = 2+2+0+0+1+0 = 5
+ x    -    x    x      -      -     = 2+0+2+1+0+0 = 5
+ -    x    -    x      x      -     = 0+2+0+1+1+0 = 4
+ x    -    -    x      x      -     = 2+0+0+1+1+0 = 4
+*/
