@@ -48,5 +48,6 @@ func main() {
 	fmt.Printf("Input-verdi: %s\n", input)
 	fmt.Printf("Relevant Go-type: %s\n", goType)
 	fmt.Printf("Antall bits: %d\n", bitSize)
-}
+}:q
+
 
